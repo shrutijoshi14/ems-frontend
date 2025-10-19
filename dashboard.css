@@ -5,6 +5,7 @@
           --muted: #6c757d;
 }
 
+/* Selected background after selecting text */
 ::selection {
           background: #7741b5;
           color: #fff;
