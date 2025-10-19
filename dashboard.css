@@ -3,6 +3,8 @@
           --accent-1: #6a11cb;
           --accent-2: #2575fc;
           --muted: #6c757d;
+          --box-shadow-blue: rgba(61, 176, 255, 0.18);
+          --box-shadwo-red: rgba(255, 107, 107, 0.18);
 }
 
 /* Selected background after selecting text */
